@@ -1,0 +1,407 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras
+vADD
+Z0 !s110 1683322084
+!i10b 1
+!s100 hVDCXF@N0=z<I@2lNm9jR3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Icl=5H?^ld[K`9SVWzZoPI2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto
+w1683311083
+Z4 8C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/Add.v
+Z5 FC:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/Add.v
+!i122 175
+L0 3 10
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1683322084.000000
+Z8 !s107 C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/Add.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/Add.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@a@d@d
+vadd
+Z12 !s110 1683644959
+!i10b 1
+!s100 HH=VN8;nTBlLL@F>7Xn1N3
+R1
+IHTHlj:YI_Ki`5A5GOYH5K1
+R2
+R3
+w1683324649
+R4
+R5
+!i122 427
+L0 1 9
+R6
+r1
+!s85 0
+31
+Z13 !s108 1683644959.000000
+R8
+R9
+!i113 1
+R10
+R11
+vALU
+R12
+!i10b 1
+!s100 P:2b^MK=j_=jZ03nTL>Y82
+R1
+ICD_AN=O];lgB`6LC]DanJ2
+R2
+R3
+w1683323611
+8C:/Users/juanv/Downloads/ALU (2).v
+FC:/Users/juanv/Downloads/ALU (2).v
+!i122 426
+L0 3 65
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/juanv/Downloads/ALU (2).v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juanv/Downloads/ALU (2).v|
+!i113 1
+R10
+R11
+n@a@l@u
+valu_control
+Z14 !s110 1683644962
+!i10b 1
+!s100 ?ZU;nL2nPSVKKk]<mYiJ[2
+R1
+I]Tm7Nzb=Ud`P[GXzZZ5Fh2
+R2
+R3
+w1683570972
+8C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/alu_control.v
+FC:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/alu_control.v
+!i122 435
+L0 1 27
+R6
+r1
+!s85 0
+31
+Z15 !s108 1683644962.000000
+!s107 C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/alu_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/alu_control.v|
+!i113 1
+R10
+R11
+vbdr
+R14
+!i10b 1
+!s100 kD1Tmgk1?NB93ol1RIX>92
+R1
+IE;_GKkL?WoM^XOH1WGJSA3
+R2
+R3
+w1683644770
+8C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/banco_de_registros (1).v
+FC:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/banco_de_registros (1).v
+!i122 436
+L0 3 32
+R6
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/banco_de_registros (1).v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/banco_de_registros (1).v|
+!i113 1
+R10
+R11
+vcontrol_unit
+Z16 !s110 1683644961
+!i10b 1
+!s100 Kd1RG7hfgFz0LTT0ol@NB3
+R1
+IPW?C8T;0NHOTHiRND0X1U0
+R2
+R3
+w1683571944
+8C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/control_unit.v
+FC:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/control_unit.v
+!i122 432
+L0 1 64
+R6
+r1
+!s85 0
+31
+Z17 !s108 1683644961.000000
+!s107 C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/control_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/control_unit.v|
+!i113 1
+R10
+R11
+vdata_memory
+R14
+!i10b 1
+!s100 ^mWg3QLkWfP84eMFEC;:A3
+R1
+Ik?SAWM?m4A51@L7ae4W2d1
+R2
+R3
+w1683571088
+8C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/data_memory.v
+FC:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/data_memory.v
+!i122 434
+Z18 L0 2 18
+R6
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/data_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/data_memory.v|
+!i113 1
+R10
+R11
+vinstruction_memory
+R16
+!i10b 1
+!s100 gWIU20FPi9lN397@<azz?2
+R1
+IRiI43<N@JH`N5AmK][FW;3
+R2
+R3
+w1683643505
+8C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/Memoria de instrucciones.v
+FC:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/Memoria de instrucciones.v
+!i122 431
+R18
+R6
+r1
+!s85 0
+31
+Z19 !s108 1683644960.000000
+!s107 C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/Memoria de instrucciones.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/Memoria de instrucciones.v|
+!i113 1
+R10
+R11
+vmemoria
+!s110 1682961050
+!i10b 1
+!s100 joP:C;9=9hhdIUnW4IeM;0
+R1
+IBNPRW9YPb68YkB]zX9?<i1
+R2
+R3
+w1682959613
+8C:/Users/juanv/Downloads/memoria (1).v
+FC:/Users/juanv/Downloads/memoria (1).v
+!i122 114
+L0 2 27
+R6
+r1
+!s85 0
+31
+!s108 1682961050.000000
+!s107 C:/Users/juanv/Downloads/memoria (1).v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juanv/Downloads/memoria (1).v|
+!i113 1
+R10
+R11
+vmux
+R16
+!i10b 1
+!s100 nX>jDmGJQA48UTJZi`WQ22
+R1
+IFamaP9>6TU7]`DV^W4mig2
+R2
+R3
+w1683312695
+8C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/mux.v
+FC:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/mux.v
+!i122 433
+L0 1 16
+R6
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/mux.v|
+!i113 1
+R10
+R11
+vPC
+R12
+!i10b 1
+!s100 1hloYRaF=Fn58ENZmz`;N1
+R1
+IbNIO8=am9gNYK?MoF0;F43
+R2
+R3
+w1683324797
+Z20 8C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/PC.v
+Z21 FC:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/PC.v
+!i122 428
+Z22 L0 2 22
+R6
+r1
+!s85 0
+31
+R13
+Z23 !s107 C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/PC.v|
+Z24 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/PC.v|
+!i113 1
+R10
+R11
+n@p@c
+vprogram_counter
+R0
+!i10b 1
+!s100 WC7`D5:o;5RME@hYBTYX92
+R1
+IRNPQCGR=_5VWccoYFcQzW3
+R2
+R3
+w1683310962
+R20
+R21
+!i122 176
+R22
+R6
+r1
+!s85 0
+31
+R7
+R23
+R24
+!i113 1
+R10
+R11
+vRAMI
+!s110 1682874090
+!i10b 1
+!s100 eklOS5Oha;`cYo?zK>Ln@2
+R1
+I1^:m3OTmB[7el70kLA;5X0
+R2
+R3
+w1682793666
+8C:/Users/juanv/Downloads/RAm I (1).v
+FC:/Users/juanv/Downloads/RAm I (1).v
+!i122 10
+L0 3 23
+R6
+r1
+!s85 0
+31
+!s108 1682874090.000000
+!s107 C:/Users/juanv/Downloads/RAm I (1).v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juanv/Downloads/RAm I (1).v|
+!i113 1
+R10
+R11
+n@r@a@m@i
+vsingledata
+Z25 !s110 1683644960
+!i10b 1
+!s100 djb4]Pg9k2RKXd3e9NEzI2
+R1
+IPZQ7Z>o5GCP`O[?^Z>znW2
+R2
+R3
+w1683642736
+8C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/single datapaht.v
+FC:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/single datapaht.v
+!i122 429
+L0 2 89
+R6
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/single datapaht.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/single datapaht.v|
+!i113 1
+R10
+R11
+vsingledata_tb
+R25
+!i10b 1
+!s100 7Y2`mgT?5Y]3omH=hUoNM0
+R1
+IL68=_8Z3YD;9=K[=BD?PN1
+R2
+R3
+w1683569550
+Z26 8C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/singledatapht_tb.v
+Z27 FC:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/singledatapht_tb.v
+!i122 430
+L0 2 12
+R6
+r1
+!s85 0
+31
+R19
+Z28 !s107 C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/singledatapht_tb.v|
+Z29 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/singledatapht_tb.v|
+!i113 1
+R10
+R11
+vsingledatahp_tb
+!s110 1683327647
+!i10b 1
+!s100 ojGRX@=03L4^NaJNkNUPP2
+R1
+IdGe2_1J[Ug;9[_BW@?l>=2
+R2
+R3
+w1682961044
+R26
+R27
+!i122 220
+Z30 L0 2 13
+R6
+r1
+!s85 0
+31
+!s108 1683327647.000000
+R28
+R29
+!i113 1
+R10
+R11
+vsingledatahp_TB
+!s110 1682960785
+!i10b 1
+!s100 6UAePX[j[G9e9j8f7J4DL1
+R1
+ImhVWmnWcN]fNTHOKS4=nM0
+R2
+R3
+w1682960767
+R26
+R27
+!i122 109
+R30
+R6
+r1
+!s85 0
+31
+!s108 1682960785.000000
+R28
+R29
+!i113 1
+R10
+R11
+nsingledatahp_@t@b

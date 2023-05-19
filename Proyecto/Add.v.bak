@@ -1,0 +1,12 @@
+`timescale 1ns/1ns
+
+module ADD(
+	input [4:0]a,
+	input [31:0]b,
+	output [31:0]suma
+ 
+);
+
+assign suma = a + b;
+
+endmodule

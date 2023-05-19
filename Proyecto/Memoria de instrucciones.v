@@ -1,0 +1,20 @@
+`timescale 1ns/1ns
+module instruction_memory(
+    input [31:0] address,
+    output reg [31:0] instruction
+);
+
+reg [31:0] memory [0:7];
+
+initial
+begin
+    $readmemb("datos.txt", memory);
+end
+
+always @(*)
+begin
+    instruction = memory[address];
+end
+
+endmodule
+

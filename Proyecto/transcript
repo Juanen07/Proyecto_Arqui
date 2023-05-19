@@ -1,0 +1,12 @@
+vsim work.bdr
+# vsim work.bdr 
+# Start time: 10:30:21 on May 10,2023
+# Loading work.bdr
+run
+# Load canceled
+run -all
+run -all
+# Break key hit
+quit -sim
+# End time: 10:31:42 on May 10,2023, Elapsed time: 0:01:21
+# Errors: 0, Warnings: 1

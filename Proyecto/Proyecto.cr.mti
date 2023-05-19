@@ -1,0 +1,78 @@
+{C:/Users/juanv/Downloads/banco_de_registros (1).v} {1 {vlog -work work -stats=none {C:/Users/juanv/Downloads/banco_de_registros (1).v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bdr
+
+Top level modules:
+	bdr
+
+} {} {}} {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/singledatapht_tb.v} {1 {vlog -work work -stats=none {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/singledatapht_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module singledata_tb
+
+Top level modules:
+	singledata_tb
+
+} {} {}} {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/Add.v} {1 {vlog -work work -stats=none {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/Add.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module add
+
+Top level modules:
+	add
+
+} {} {}} {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/single datapaht.v} {1 {vlog -work work -stats=none {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/single datapaht.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module singledata
+
+Top level modules:
+	singledata
+
+} {} {}} {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/data_memory.v} {1 {vlog -work work -stats=none {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/data_memory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_memory
+
+Top level modules:
+	data_memory
+
+} {} {}} {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/alu_control.v} {1 {vlog -work work -stats=none {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/alu_control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu_control
+
+Top level modules:
+	alu_control
+
+} {} {}} {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/mux.v} {1 {vlog -work work -stats=none {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/mux.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/PC.v} {1 {vlog -work work -stats=none {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/PC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/Memoria de instrucciones.v} {1 {vlog -work work -stats=none {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/Memoria de instrucciones.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module instruction_memory
+
+Top level modules:
+	instruction_memory
+
+} {} {}} {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/control_unit.v} {1 {vlog -work work -stats=none {C:/Users/juanv/OneDrive/Documentos/Arquitectura de Computadoras/Proyecto/control_unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} {C:/Users/juanv/Downloads/ALU (2).v} {1 {vlog -work work -stats=none {C:/Users/juanv/Downloads/ALU (2).v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}
